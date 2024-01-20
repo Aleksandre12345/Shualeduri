@@ -14,7 +14,7 @@ const Card = ({ CVC, Number, Name, YY, MM }) => {
         </div>
 
         <div className="Frontofthecard">
-          <img src="/public/Circles.svg" className="Circles" alt="" />
+          <img src="/Circles.svg" className="Circles" alt="" />
            
           
       
