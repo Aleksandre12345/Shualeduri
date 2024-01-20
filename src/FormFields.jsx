@@ -19,7 +19,7 @@ const FormFields = ({
         <p className="CardHoldername">CARDHOLDER NAME</p>
         <input
           className="HolderInput"
-          placeholder="e.g. Zuka Sutidze"
+          placeholder="e.g. Aleksandre G"
           type="text"
           onChange={NameChange}
           maxLength={16}
