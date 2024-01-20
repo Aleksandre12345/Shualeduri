@@ -126,7 +126,7 @@ const App = () => {
             MM={expiryMonth}
             YY={expiryYear}
           />
-          <img className="Thank" src="/public/Purplecircle.svg" alt="" />
+          <img className="Thank" src="/Purplecircle.svg" alt="" />
           <p className="THANKS">THANK YOU!</p>
           <p className="added">We’ve added your card details</p>
           <button onClick={handleConfirmClick2} className="Continue2">
