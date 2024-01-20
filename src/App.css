@@ -224,6 +224,24 @@
 
 
 @media (width > 1439px) {
+  .Thank{
+    margin-top: 300px;
+    margin-left: 730px;
+  }
+  
+  .THANKS{
+    margin-left:  600px;
+  }
+  
+  
+  .added{
+    margin-left:  600px;
+  }
+  
+  .Continue2{
+    margin-left: 600px;
+  }
+  
   .rame {
     position: absolute;
     left: 300px;
